@@ -1,0 +1,8 @@
+vite.config.ts
+scripts/setup.ts
+.vscode/extensions.json
+out
+tsconfig.temp.json
+snap.md
+notes
+plan.json
